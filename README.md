@@ -17,7 +17,7 @@ I'm a software developer **in the making🎓** I started in this because my frie
 <img width="400" height="350" src="https://38.media.tumblr.com/762a5806c961c493181af2ec08eae3eb/tumblr_njqo8rmr2u1s5wiico1_500.gif" align=right> 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Data Science
+  - 📊 Databases
   - 🖼 HTML, CSS and JS
   - ☕ Java
   - 🐍 Python (Coming soon)
