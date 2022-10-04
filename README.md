@@ -37,7 +37,8 @@ I'm a software developer **in the making🎓** I started in this because my frie
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
 
-
+##
+[![@odracir02vlc's Holopin board](https://holopin.io/api/user/board?user=odracir02vlc)](https://holopin.io/@odracir02vlc)
 ##  
 
 Working hard on it
