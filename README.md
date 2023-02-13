@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:ricardosastrelopez@gmail.com)
 
 
-### A little about me...  <img width="150" height="100" src="https://i.pinimg.com/originals/70/48/79/704879546558759398c6b877c5fdb390.gif" align=right>
+### A little about me...  <img width="150" height="100" src="[https://i.pinimg.com/originals/70/48/79/704879546558759398c6b877c5fdb390.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgiorno-giorno-giovanna-jojos-bizarre-adventures-jjba-buon-giorno-gif-16525009&psig=AOvVaw1bBlgjiDMjg0033j6d2a6X&ust=1676385181732000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIiIoczbkv0CFQAAAAAdAAAAABAE)" align=right>
 I'm a software developer **in the making🎓** I started in this because my friend persuaded me and here I am, learning 💻 😃. <br/><br/>
 
 
