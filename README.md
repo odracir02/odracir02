@@ -5,16 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:ricardosastrelopez@gmail.com)
 
 
-### A little about me...  <img width="200" height="150" src="https://media.tenor.com/t0Fpx0elmwcAAAAC/giorno-giorno-giovanna.gif" align=right>
-I'm a software developer **in the making🎓** I started in this because my friend persuaded me and here I am, learning 💻 😃. <br/><br/>
+### A little about me... 
+I'm a software developer **in the making🎓** I started in this because I am very interested in all fields of computing and here I am, learning 💻 😃. <br/><br/>
 
 
 
 
 
 ## ⚡️ A Few Quick Facts 
-
-<img width="400" height="350" src="https://38.media.tumblr.com/762a5806c961c493181af2ec08eae3eb/tumblr_njqo8rmr2u1s5wiico1_500.gif" align=right> 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Databases
@@ -27,7 +25,7 @@ I'm a software developer **in the making🎓** I started in this because my frie
 - 🎉 Fun-Fact: I ❤️ AI and I am waiting to learn 🤖
 
   
-### 🖥️ My DevSetup <img width="80" height="55" src="https://c.tenor.com/6PpD8kK1efcAAAAC/aokiji-cold.gif" align=center>
+### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 ### ⚙️ Some Tool and Tech I use (I hope to add more soon 💬)
