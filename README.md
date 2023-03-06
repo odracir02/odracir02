@@ -6,7 +6,7 @@
 
 
 ### A little about me... 
-I'm a software developer **in the making🎓** 
+I'm a software developer **in the making🎓** <br>
 I started in this because I am very interested in all fields of computing and here I am, learning 💻 😃. <br/><br/>
 
 
